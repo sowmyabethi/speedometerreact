@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.speed {
+  font-size: 28px;
+  color: antiquewhite;
+}
+.img {
+  height: 250px;
+  width: 500px;
+}
+.container {
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+}
+.heading {
+  color: aliceblue;
+}
